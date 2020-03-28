@@ -6,8 +6,3 @@ This application creates a map using Leaflet and plots all of the earthquakes fr
 ![2-BasicMap](Images/2-BasicMap.png)
 
 
-
-
-
-
-
